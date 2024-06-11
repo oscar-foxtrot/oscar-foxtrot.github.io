@@ -1,2 +1,2 @@
 # Homepage
-Little personal site
+Little personal website
